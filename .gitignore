@@ -1,0 +1,8 @@
+bin
+gen
+out
+.settings
+.svn
+.DS_Store
+.apk
+
